@@ -8,7 +8,7 @@ Welcome to my profile.”</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekamaz4" alt="ekamaz4" /></a> </p>
 
-<h3 align="left">Benimle bağlantı kurun:</h3>
+<h3 align="left">Benimle bağlantı kurun:<a href="https://tr.linkedin.com/in/emirkan-kamaz-56480a181">Linkedin</a></h3>
 <p align="left">
 </p>
 
