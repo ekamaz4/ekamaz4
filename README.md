@@ -1,5 +1,8 @@
 <h1 align="center">Merhaba 👋, ben Emirkan</h1>
 <h3 align="center">Türkiye'den, tam yığın web geliştirme ve Unity 2D oyun geliştirme alanlarında uzmanlaşmış, kendini işine adamış bir geliştirici adayıyım.</h3>
+<p>“Hello, I’m Emirkan. I am a passionate and self-motivated developer with a long-standing interest in software development since middle school. I enjoy learning new technologies, improving my coding skills, and expanding my knowledge in my free time.
+With an associate degree and a dedication to consistent growth, I approach every challenge with patience and determination. I am always eager to learn and evolve as a developer.
+Welcome to my profile.”</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekamaz4&label=Profile%20views&color=0e75b6&style=flat" alt="ekamaz4" /> </p>
 
